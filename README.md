@@ -3,3 +3,4 @@ feature two
 feature three
 feature four
 feature five
+feature seven
